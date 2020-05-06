@@ -1,0 +1,1 @@
+Basic responsive webpage with mobile, tablet, and desktop media queries.
